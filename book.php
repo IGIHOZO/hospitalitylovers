@@ -17,7 +17,7 @@ if (isset($_POST['DepartureDate'])) {
 
     // echo "<h1>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</h1>";
 
-$to = 'info@firstclasstours.rw'; 
+$to = 'info@hospitalitylovers.com'; 
 $from = 'firstclasstours@mwewe.afriregister.com'; 
 $fromName = 'SenderName'; 
  
