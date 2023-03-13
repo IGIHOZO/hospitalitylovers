@@ -32,7 +32,7 @@ $htmlContent = '
         <h1>New Booking from '.$name.'</h1> 
         <table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
             <tr> 
-                <th>Booking Category:</th><td><b><u>'.$BookCategory.'</u></b></td> 
+                <th><h3>Booking Category:</h3></th><td><b><u><h3>'.$BookCategory.'</h3></u></b></td> 
             </tr> 
             <tr> 
                 <th>Name:</th><td>'.$name.'</td> 
